@@ -12,6 +12,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [SugarCRM](http://www.sugarcrm.com) - Contact-focused and free if we host.
 - [Streak](https://www.streak.com) - Gmail-integrated solution, highly customizable.
 
+## Email Tracking
+
+- [Yesware](http://www.yesware.com) - See click updates on links and opens (30% HQ Raleigh discount).
+
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
